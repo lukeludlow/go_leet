@@ -1,4 +1,4 @@
-package twosum
+package goleet
 
 import "testing"
 

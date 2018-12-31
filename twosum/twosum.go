@@ -1,4 +1,4 @@
-package twosum
+package goleet
 
 func twoSum(nums []int, target int) []int {
 	m := make(map[int]int)
